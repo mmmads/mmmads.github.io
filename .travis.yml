@@ -1,13 +1,11 @@
 language: ruby
-rvm: 2.5
-
-install: ./script/bootstrap
-script: ./script/cibuild
-
-env:
-  global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-
-sudo: false
-
 cache: bundler
+gemfile: docs/Gemfile
+script:
+  - bundle exec jekyll algolia --source docs --destination docs/_site --config docs/_config.yml
+branches:
+  only:
+    # Change this to gh-pages if you're deploying using the gh-pages branch
+    - master
+rvm:
+ - 2.4
