@@ -3,14 +3,14 @@
   excerpt: 
   image: 
 
-- title: MySQL
-  url: /mysql/
+- title: Bioinformatics
+  url: /bioinformatics/
 
-- title: Linux
-  url: /linux/
+- title: MachineLearning
+  url: /machinelearning/
 
-- title: Python
-  url: /python/
+- title: PaperReading
+  url: /paperreading/
 
-- title: Jekyll
-  url: /jekyll/
+- title: Others
+  url: /others/
