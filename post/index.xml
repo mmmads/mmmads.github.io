@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mmmadsblog</title>
-    <link>https://mmmads.github.io/</link>
-    <description>Recent content on mmmadsblog</description>
+    <title>Posts on mmmadsblog</title>
+    <link>https://mmmads.github.io/post/</link>
+    <description>Recent content in Posts on mmmadsblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 May 2020 11:04:22 +0800</lastBuildDate>
     
-	<atom:link href="https://mmmads.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mmmads.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
