@@ -9,3 +9,10 @@ And use command to generate hugo
 
 ### push to github
 just copy the documents in public and push it !
+
+
+### generate new blog
+../hugo.exe new post/first-post.md
+
+### reference 
+[ref](./https://www.bioinfo-scrounger.com/archives/809/)
